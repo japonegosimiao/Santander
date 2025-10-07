@@ -5,7 +5,7 @@ Desafio do Código da DIO
 
 Este repositório documenta a execução de um desafio prático proposto pela [DIO (Digital Innovation One)](https://web.dio.me/), focado em simular ataques de força bruta para fins de aprendizado em cibersegurança (pentest). O objetivo é utilizar as ferramentas **Kali Linux** e **Medusa** em um ambiente controlado para identificar vulnerabilidades em diferentes serviços e, em seguida, propor medidas de mitigação eficazes.
 
-## 🎯 Objetivos de Aprendizagem
+## Objetivos de Aprendizagem
 
 * Compreender o funcionamento de ataques de força bruta em serviços como FTP, Web (formulários) e SMB.
 * Utilizar o Kali Linux e a ferramenta Medusa para realizar auditorias de segurança.
@@ -13,7 +13,7 @@ Este repositório documenta a execução de um desafio prático proposto pela [D
 * Reconhecer vulnerabilidades comuns e propor medidas de correção e prevenção.
 * Utilizar o GitHub como um portfólio técnico para compartilhar evidências e aprendizados.
 
-## 🛠️ Ambiente e Ferramentas
+## Ambiente e Ferramentas
 
 Para a realização deste desafio, foi configurado um ambiente de laboratório virtual, garantindo que todos os testes fossem realizados de forma segura e isolada.
 
@@ -23,7 +23,7 @@ Para a realização deste desafio, foi configurado um ambiente de laboratório v
 * **Software de Virtualização:** VirtualBox
 * **Configuração de Rede:** Rede Interna (Host-Only) para comunicação isolada entre as VMs.
 
-## ⚔️ Cenários de Ataque Executados
+## Cenários de Ataque Executados
 
 Foram realizados três cenários de ataque de força bruta, cada um focado em um serviço diferente para explorar distintas superfícies de ataque.
 
@@ -70,7 +70,7 @@ Password Spraying é uma variação do ataque de força bruta onde o atacante ut
 * **Resultados:** O ataque encontrou com sucesso a conta `msfadmin:msfadmin`.
 * **Evidência:**
 
-## 🛡️ Medidas de Mitigação e Prevenção
+## Medidas de Mitigação e Prevenção
 
 Com base nos resultados obtidos, as seguintes medidas de segurança são recomendadas para prevenir ataques de força bruta:
 
