@@ -40,6 +40,7 @@ O serviço FTP (File Transfer Protocol) é frequentemente um alvo para atacantes
     ```
 * **Resultados:** O ataque foi bem-sucedido, encontrando a credencial `msfadmin:msfadmin`.
 * **Evidência:**
+  https://imgur.com/a/0EyYkWO
 
 ---
 
@@ -54,6 +55,7 @@ Ataques a formulários de login em aplicações web são extremamente comuns e v
     ```
 * **Resultados:** A ferramenta identificou com sucesso a credencial `admin:password`.
 * **Evidência:**
+  https://imgur.com/a/O9Qs4zy
     
 
 ---
@@ -69,6 +71,7 @@ Password Spraying é uma variação do ataque de força bruta onde o atacante ut
     ```
 * **Resultados:** O ataque encontrou com sucesso a conta `msfadmin:msfadmin`.
 * **Evidência:**
+  https://imgur.com/a/LF8znBx.
 
 ## Medidas de Mitigação e Prevenção
 
