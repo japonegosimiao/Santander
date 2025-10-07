@@ -84,6 +84,6 @@ Com base nos resultados obtidos, as seguintes medidas de segurança são recomen
 5.  **Uso de CAPTCHA:** Implementar CAPTCHAs em formulários de login para diferenciar usuários de bots.
 6.  **Monitoramento e Alertas:** Configurar sistemas para detectar e alertar sobre um volume anormal de falhas de login.
 
-## 🏁 Conclusão
+## Conclusão
 
 Este desafio prático demonstrou a fragilidade de serviços mal configurados e a importância de implementar políticas de segurança robustas. Ferramentas como o Medusa são valiosas para auditores de segurança na identificação de senhas fracas, permitindo que as organizações corrijam essas falhas antes que sejam exploradas por agentes maliciosos.
